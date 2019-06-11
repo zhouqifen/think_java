@@ -13,7 +13,7 @@ public class Immutable_1 {
     public static void main(String[] args){
         String q ="howdy";
         System.out.println(q);
-        String qq = upcase(q);
+        String qq = upcase(q);//当把q传递给方法时,实际上传递的是q引用的饿一个拷贝
         System.out.println(qq);
         System.out.println(q);
     }
