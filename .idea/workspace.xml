@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/main/java/chap13/chap13_6/13_6.txt" line="6" />
   </component>
@@ -7,6 +8,10 @@
     <list default="true" id="ec79e2a3-d4ad-4bfd-b02e-8ae694a623f4" name="Default" comment="提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="ec79e2a3-d4ad-4bfd-b02e-8ae694a623f4" name="Default" comment="" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="TheReplacemnets_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chap13/chap13_6/chap13_6_6/TheReplacemnets_1.java">
@@ -46,12 +52,21 @@
                 <caret line="2" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
+=======
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -59,6 +74,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -66,6 +83,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/chap13/chap13_6/Splitting.java" />
         <option value="$PROJECT_DIR$/src/main/java/chap13/chap13_6/Replacing.java" />
         <option value="$PROJECT_DIR$/src/main/java/chap13/chap13_6/IntegrMatch.java" />
@@ -89,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/main/java/chap13/chap13_7/chap_13_7_2/ThreatAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/chap13/chap13_7/chap13_7_2/ThreatAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/chap13/chap13_6/chap_13_6_6/TheReplacemnets_1.java" />
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
       </list>
     </option>
   </component>
@@ -111,8 +131,13 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="135" />
     <option name="y" value="90" />
+=======
+    <option name="x" value="216" />
+    <option name="y" value="175" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     <option name="width" value="1455" />
     <option name="height" value="705" />
   </component>
@@ -122,9 +147,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,6 +160,7 @@
               <item name="think_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="think_java" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="think_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="think_java" type="462c0819:PsiDirectoryNode" />
@@ -143,15 +172,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/chap13/chap13_6" />
     <property name="last_opened_file_path" value="D:/BaiduNetdiskDownload/net.mindview.util.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -159,6 +197,10 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -173,6 +215,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.ThreatAnalyzer">
     <configuration name="BetterRead_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap13.chap13_7.BetterRead_2" />
@@ -229,6 +272,9 @@
         </pattern>
       </extension>
     </configuration>
+=======
+  <component name="RunManager">
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -270,6 +316,7 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Application.JGrep_1" />
       <item itemvalue="Application.SimpleRead_1" />
@@ -286,6 +333,8 @@
         <item itemvalue="Application.JGrep_1" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -297,6 +346,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558944640744</updated>
+<<<<<<< HEAD
       <workItem from="1558944644659" duration="9688000" />
       <workItem from="1559787134941" duration="12500000" />
       <workItem from="1560132974028" duration="27216000" />
@@ -343,10 +393,19 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+=======
+      <workItem from="1558944644659" duration="1964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1964000" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.53138685" />
@@ -398,6 +457,35 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.53138685" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27530363" />
+=======
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.54160583" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15587045" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,6 +494,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交" />
     <option name="LAST_COMMIT_MESSAGE" value="提交" />
@@ -914,12 +1003,20 @@
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
+=======
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -980,6 +1077,8 @@
           </splitter-proportions>
         </settings>
       </state>
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -992,6 +1091,7 @@
           </splitter-proportions>
         </settings>
       </state>
+<<<<<<< HEAD
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1003,6 +1103,8 @@
           </splitter-proportions>
         </settings>
       </state>
+=======
+>>>>>>> 73e0e692fdcc4531b9f16201b437eec66f550d98
     </states>
   </component>
 </project>
