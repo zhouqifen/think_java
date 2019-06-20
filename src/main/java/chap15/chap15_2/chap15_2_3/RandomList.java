@@ -25,11 +25,6 @@ public class RandomList<T> {
         for(int i =0;i<11;i++){
             System.out.println(rs.select() + " ");
         }
-         for(int i=0;i<100;i++){
-             Random random = new Random(100);
-             int j= random.nextInt(21);
-             System.out.println(j);
-         }
 
     }
 }
