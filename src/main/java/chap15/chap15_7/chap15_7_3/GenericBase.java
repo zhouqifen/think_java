@@ -3,7 +3,7 @@ package chap15.chap15_7.chap15_7_3;
 /**
  * @Author: zhouqifen
  * @Date:2019/6/21 18:29
- * @Desc
+ * @Desc  使用泛型并不是强制的
  */
 public class GenericBase<T> {
     private T element;
