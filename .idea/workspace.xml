@@ -1,37 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec79e2a3-d4ad-4bfd-b02e-8ae694a623f4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ArrayMaker_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/FilledListMaker_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/GenericHolder_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ListMaker_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/SimpleHolder_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/Building2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/ClassTypeCapture4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/Erased_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/House3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/ClassAsFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Creator11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/CreatorGeneric12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Employee2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/FactoryConstranit8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/FactoryI4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Foo2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/GenericWithCreate9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/InstantiateGenericType3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/IntegerFactory6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Widget7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/X10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGeneric4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGenericReference3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/Generic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray2_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArrayWithTypeToken7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ListOfGenerics1.java" afterDir="false" />
+    <list default="true" id="ec79e2a3-d4ad-4bfd-b02e-8ae694a623f4" name="Default" comment="提交">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/CovariantArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/GenericsAndConvariance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Jonathan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/NonCovariantGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/CompilerIntelligence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/Holder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/GenericReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/GenericWritting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/SuperTypeWildCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/UnboundedWildCards2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/UnboundedWildcards1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/WildCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_4/CaptureConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_1/ByteSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_1/ListOfInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Hourly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/ClassCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/FixedSizeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/GenericCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/NeedCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/ComparablePet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Gecko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/BasicBounds8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/Bounded7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/Colored2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/ColoredDimension4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/Dimension3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/HasColor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/Solid6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/Weight5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/Colored2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/ColoredDimension2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/HoldItem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/InheritBounds5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/Solid2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/CanineHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/DogBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/EpicBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHearSmell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHearing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperSleuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperSmell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/XRayVision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_3/GenericBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_3/GenericBase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,57 +73,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Creator11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Creator11.java">
+      <file leaf-file-name="FixedSizeStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/FixedSizeStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="97">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreatorGeneric12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/CreatorGeneric12.java">
+      <file leaf-file-name="GenericCast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/GenericCast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="374">
+              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding>
+                <element signature="e#272#280#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Erased_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/Erased_1.java">
+      <file leaf-file-name="NeedCasting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/NeedCasting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListOfGenerics1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ListOfGenerics1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="297">
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Generic2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/Generic2.java">
+      <file leaf-file-name="ClassCasting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/ClassCasting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseList2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparablePet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/ComparablePet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hamster.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Hamster.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -106,78 +177,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayOfGeneric4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGeneric4.java">
+      <file leaf-file-name="Gecko.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Gecko.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericArray5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#524#533#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericArray2_6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray2_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#536#545#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericArrayWithTypeToken7.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArrayWithTypeToken7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#652#661#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayOfGenericReference3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGenericReference3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -188,6 +192,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="yet_unknown" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -198,57 +204,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_2/chap15_2_1/FourTuple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_2/chap15_2_1/FiveTuple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_2/chap15_2_1/TupbleTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_6/TupleList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_6/Shelf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_6/Aisle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_6/CheckOutStand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_6/Store.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_6/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/ErasedTypeEquivalence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/ErasedTypeEquivalence_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/HasF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulator_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulator_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/ReturnGenericType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_3/Foo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/LostImformation_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_3/GenericBase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ArrayMaker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ArrayMaker_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ListMaker_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/SimpleHolder_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/GenericHolder_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/FilledListMaker_3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/House3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/ClassTypeCapture4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Employee2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/InstantiateGenericType3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Foo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/IntegerFactory5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Widget6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/FactoryI4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/FactoryConstranit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/ClassAsFactory1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Foo2_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/GenericWithCreate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/GenericWithCreate9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/X10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Creator11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/CreatorGeneric12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ListOfGenerics1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/Generic1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/Erased_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/Generic2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGenericReference3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGeneric4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray2_6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArrayWithTypeToken7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/Bounded.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/BasicBounds8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/Colored2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/HoldItem1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/ColoredDimension2_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/Solid2_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/InheritBounds5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperPower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/XRayVision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperSleuth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHearing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperSmell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/CanineHero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHearSmell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/DogBoy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/EpicBattle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Jonathan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/Orange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/CovariantArrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/NonCovariantGeneric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/GenericsAndConvariance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/CompilerIntelligence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/Holder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/SuperTypeWildCards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/SuperTypeWildCards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/GenericWritting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/GenericReading.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/UnboundedWildcards1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/UnboundedWildCards2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/WildCards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_4/CaptureConversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/ListOfInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_1/ListOfInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Payable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_1/ByteSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Hourly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/FixedSize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/FixedSizeStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/GenericCast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/NeedCasting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/ClassCasting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/ComparablePet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Hamster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Gecko.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Cat.java" />
       </list>
     </option>
   </component>
@@ -314,14 +320,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chap13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="think_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="think_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chap15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -331,7 +329,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chap15" type="462c0819:PsiDirectoryNode" />
-              <item name="chap15_8" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15_11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="think_java" type="b2602c69:ProjectViewProjectNode" />
@@ -340,8 +338,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chap15" type="462c0819:PsiDirectoryNode" />
-              <item name="chap15_8" type="462c0819:PsiDirectoryNode" />
-              <item name="chap15_8_2" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15_11" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15_11_5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="think_java" type="b2602c69:ProjectViewProjectNode" />
@@ -377,12 +375,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="New&#9;PSI&#9;JAVA://net.mindview.util.New&#10;Generator&#9;PSI&#9;JAVA://net.mindview.util.Generator&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;List&#9;FILE&#9;jar://D:/zhouqifen/soft/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java&#10;ArrayL&#9;PSI&#9;JAVA://java.util.ArrayList" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/zhouqifen/study/code/think_java/src/main/java/chap15/chap15_9/power/SuperSmell.java&#10;New&#9;PSI&#9;JAVA://net.mindview.util.New&#10;Generator&#9;PSI&#9;JAVA://net.mindview.util.Generator&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;List&#9;FILE&#9;jar://D:/zhouqifen/soft/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java&#10;ArrayL&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/chap13/chap13_6" />
@@ -414,58 +412,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericArrayWithTypeToken7">
-    <configuration name="ArrayOfGeneric4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap15.chap15_8.chap15_8_2.ArrayOfGeneric4" />
+  <component name="RunManager" selected="Application.GenericCast">
+    <configuration name="CaptureConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap15.chap15_10.chap15_10_4.CaptureConversion" />
       <module name="think_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap15.chap15_8.chap15_8_2.*" />
+          <option name="PATTERN" value="chap15.chap15_10.chap15_10_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="CreatorGeneric12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap15.chap15_8.chap15_8_1.CreatorGeneric12" />
+    <configuration name="GenericCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap15.chap15_11.chap15_11_3.GenericCast" />
       <module name="think_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap15.chap15_8.chap15_8_1.*" />
+          <option name="PATTERN" value="chap15.chap15_11.chap15_11_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GenericArray2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap15.chap15_8.chap15_8_2.GenericArray2_6" />
+    <configuration name="GenericReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap15.chap15_10.chap15_10_2.GenericReading" />
       <module name="think_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap15.chap15_8.chap15_8_2.*" />
+          <option name="PATTERN" value="chap15.chap15_10.chap15_10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GenericArray5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap15.chap15_8.chap15_8_2.GenericArray5" />
+    <configuration name="GenericWritting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap15.chap15_10.chap15_10_2.GenericWritting" />
       <module name="think_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap15.chap15_8.chap15_8_2.*" />
+          <option name="PATTERN" value="chap15.chap15_10.chap15_10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GenericArrayWithTypeToken7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap15.chap15_8.chap15_8_2.GenericArrayWithTypeToken7" />
+    <configuration name="ListOfInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap15.chap15_11.chap15_11_1.ListOfInt" />
       <module name="think_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap15.chap15_8.chap15_8_2.*" />
+          <option name="PATTERN" value="chap15.chap15_11.chap15_11_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -512,19 +510,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CreatorGeneric12" />
-      <item itemvalue="Application.ArrayOfGeneric4" />
-      <item itemvalue="Application.GenericArray5" />
-      <item itemvalue="Application.GenericArray2_6" />
-      <item itemvalue="Application.GenericArrayWithTypeToken7" />
+      <item itemvalue="Application.GenericWritting" />
+      <item itemvalue="Application.GenericReading" />
+      <item itemvalue="Application.CaptureConversion" />
+      <item itemvalue="Application.ListOfInt" />
+      <item itemvalue="Application.GenericCast" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericArrayWithTypeToken7" />
-        <item itemvalue="Application.GenericArray2_6" />
-        <item itemvalue="Application.GenericArray5" />
-        <item itemvalue="Application.ArrayOfGeneric4" />
-        <item itemvalue="Application.CreatorGeneric12" />
+        <item itemvalue="Application.GenericCast" />
+        <item itemvalue="Application.ListOfInt" />
+        <item itemvalue="Application.CaptureConversion" />
+        <item itemvalue="Application.GenericReading" />
+        <item itemvalue="Application.GenericWritting" />
       </list>
     </recent_temporary>
   </component>
@@ -545,7 +543,10 @@
       <workItem from="1560909881457" duration="18998000" />
       <workItem from="1560995803224" duration="9511000" />
       <workItem from="1561082697134" duration="7455000" />
-      <workItem from="1561343712460" duration="20388000" />
+      <workItem from="1561343712460" duration="20628000" />
+      <workItem from="1561516697681" duration="8826000" />
+      <workItem from="1561604355063" duration="3587000" />
+      <workItem from="1561687065138" duration="19725000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1560147471281</created>
@@ -617,11 +618,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561113587853</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="提交">
+      <created>1561462102453</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561462102453</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135287000" />
+    <option name="totallyTimeSpent" value="167665000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,7 +646,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30072993" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329927" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -646,11 +654,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.62919706" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24233577" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1620438" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2890511" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23414305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20445344" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -721,8 +729,14 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/Solid6.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -765,483 +779,458 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_2/chap15_2_1/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/Colored2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="330">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_2/chap15_2_1/TupbleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/ColoredDimension2_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="200">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/TupleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/CheckOutStand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/Office.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/Solid2_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/Shelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/Aisle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_6/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../soft/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/TypeVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="49" column="3" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../soft/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="711" column="15" selection-start-line="711" selection-start-column="15" selection-end-line="711" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../soft/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2266">
-          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
-          <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../soft/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1826">
-          <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/HasF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulator_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/Manipulator_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_1/ReturnGenericType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/ErasedTypeEquivalence_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/hold/InheritBounds5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/XRayVision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/LostImformation_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_3/Foo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_3/GenericBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/SimpleHolder_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/GenericHolder_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#372#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ArrayMaker_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#438#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/ListMaker_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#353#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_7/chap15_7_4/FilledListMaker_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#478#486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/Building2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/House3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/ClassTypeCapture4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#407#418#0" expanded="true" />
-            <element signature="e#704#712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Employee2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Widget7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/InstantiateGenericType3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="e#265#276#0" expanded="true" />
-            <element signature="e#415#424#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/IntegerFactory6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperSleuth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/FactoryConstranit8.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/CanineHero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/ClassAsFactory1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/FactoryI4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Foo2_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/GenericWithCreate9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/X10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/Creator11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_1/CreatorGeneric12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/Erased_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ListOfGenerics1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/Generic2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGenericReference3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHearSmell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/ArrayOfGeneric4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/DogBoy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="220">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperHearing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/SuperSmell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_9/power/EpicBattle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap13/chap13_6/13_6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap13/chap13_6/chap13_6_8/JGrep_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap13/chap13_6/chap13_6_7/Resetting_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap13/chap13_6/chap13_6_6/TheReplacemnets_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/Jonathan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/CovariantArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/NonCovariantGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/GenericsAndConvariance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/CompilerIntelligence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/SuperTypeWildCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/GenericReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#812#819#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1220#1227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_2/GenericWritting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#347#354#0" expanded="true" />
+            <element signature="e#433#440#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/UnboundedWildcards1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/UnboundedWildCards2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_3/WildCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#1264#1270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_1/Holder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#520#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_10/chap15_10_4/CaptureConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_1/ListOfInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Payable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_1/ByteSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_2/Hourly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/FixedSizeStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#524#533#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArray2_6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/GenericCast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
+        <state relative-caret-position="374">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#536#545#0" expanded="true" />
+            <element signature="e#272#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_8/chap15_8_2/GenericArrayWithTypeToken7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/NeedCasting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="297">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#652#661#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_3/ClassCasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_4/UseList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/ComparablePet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Gecko.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chap15/chap15_11/chap15_11_5/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
